@@ -10,18 +10,18 @@ Es un script con un conjunto de características y herramientas adecuadas para
    VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
    y los usuarios ...
 
-## :book: Installation
+## :book: Instalação
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/hiadalko/sub-zero/master/Plus; chmod 777 Plus; ./Plus
 ```
-SSHPLUS MANAGER (las dependencias faltantes se instalarán automáticamente)
+SSHPLUS MANAGER (os arquivos pendentes instalarão automaticamente)
 ```
 
 ## :scroll: Changelog
-**VERSION: 38**
+**Versão: 38**
 
 * WEBSOCKET ADICIONADO
-* CORRECÃ•ES E MELHORIAS
+* Correções e melhorias
 
 ## :book: How it works
 * SSH coneccion.
