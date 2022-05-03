@@ -55,8 +55,4 @@ SSHPLUS MANAGER (las dependencias faltantes se instalarán automáticamente)
 5. [TCP-Tweaker-1.0 (TCP-SPEED)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/TCP-Speed)
 
 ## :octocat: Credits
-1. @crazy_vpn - Developer of SSHPlus Manager
-2. illuminati Dev Team - Contributor 
-```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
-```
+SUB - ZERO
